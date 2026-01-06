@@ -571,9 +571,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ## 👨‍💻 Author & Contact
 
 **Your Name**
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+- 🐙 GitHub: [@SheikhNoor](https://github.com/SheikhNoor)
+- 💼 LinkedIn: [Md Nurullah](https://linkedin.com/in/md-nurullah-1481b7253/)
+- 📧 Email: [mdnurullah.co@gmail.com](mdnurullah.co@gmail.com)
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 
 ---
@@ -594,11 +594,11 @@ Special thanks to:
 
 ## 📊 Project Stats
 
-![Stars](https://img.shields.io/github/stars/yourusername/ats-resume-optimization?style=social)
-![Forks](https://img.shields.io/github/forks/yourusername/ats-resume-optimization?style=social)
-![Issues](https://img.shields.io/github/issues/yourusername/ats-resume-optimization)
-![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/ats-resume-optimization)
-![Contributors](https://img.shields.io/github/contributors/yourusername/ats-resume-optimization)
+![Stars](https://img.shields.io/github/stars/SheikhNoor/ats-resume-optimization?style=social)
+![Forks](https://img.shields.io/github/forks/SheikhNoor/ats-resume-optimization?style=social)
+![Issues](https://img.shields.io/github/issues/SheikhNoor/ats-resume-optimization)
+![Pull Requests](https://img.shields.io/github/issues-pr/SheikhNoor/ats-resume-optimization)
+![Contributors](https://img.shields.io/github/contributors/SheikhNoor/ats-resume-optimization)
 
 ---
 

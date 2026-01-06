@@ -106,33 +106,33 @@ Node.js 18+
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     Frontend (Next.js)                       │
+│                     Frontend (Next.js)                      │
 │  ┌─────────────────────────────────────────────────────┐    │
-│  │  Dashboard Component                                 │    │
-│  │  - File Upload (Drag & Drop)                         │    │
-│  │  - Category Selection (IT/Non-IT)                    │    │
-│  │  - Job Role Dropdown (50+ roles)                     │    │
-│  │  - Experience Level Toggle                           │    │
-│  │  - Results Visualization                             │    │
+│  │  Dashboard Component                                │    │
+│  │  - File Upload (Drag & Drop)                        │    │
+│  │  - Category Selection (IT/Non-IT)                   │    │
+│  │  - Job Role Dropdown (50+ roles)                    │    │
+│  │  - Experience Level Toggle                          │    │
+│  │  - Results Visualization                            │    │
 │  └─────────────────────────────────────────────────────┘    │
 └───────────────────────┬─────────────────────────────────────┘
                         │ HTTP REST API
                         ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                    Backend (FastAPI)                         │
+│                    Backend (FastAPI)                        │
 │  ┌─────────────────────────────────────────────────────┐    │
 │  │  main.py - API Routes                               │    │
-│  │  - POST /analyze                                     │    │
-│  │  - GET /health                                       │    │
+│  │  - POST /analyze                                    │    │
+│  │  - GET /health                                      │    │
 │  └─────────────────────────────────────────────────────┘    │
-│                                                              │
-│  ┌──────────────────┐  ┌──────────────────┐                │
-│  │ ResumeParser     │  │ ATSEngine        │                │
-│  │ - PDF parsing    │  │ - Keyword match  │                │
-│  │ - DOCX parsing   │  │ - TF-IDF scoring │                │
-│  │ - OCR fallback   │  │ - Recommendations│                │
-│  └──────────────────┘  └──────────────────┘                │
-│                                                              │
+│                                                             │
+│  ┌──────────────────┐  ┌──────────────────┐                 │
+│  │ ResumeParser     │  │ ATSEngine        │                 │
+│  │ - PDF parsing    │  │ - Keyword match  │                 │
+│  │ - DOCX parsing   │  │ - TF-IDF scoring │                 │
+│  │ - OCR fallback   │  │ - Recommendations│                 │
+│  └──────────────────┘  └──────────────────┘                 │
+│                                                             │
 │  ┌──────────────────────────────────────────────────────┐   │
 │  │ SummaryAnalyzer                                      │   │
 │  │ - Summary extraction & quality analysis              │   │
